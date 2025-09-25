@@ -1,0 +1,10 @@
+
+{
+    "max_viewers": 10,
+    "view_duration_min": 5,
+    "view_duration_max": 30,
+    "use_vpn": true,
+    "vpn_countries": ["US", "CA", "GB"],
+    "tiktok_url": "https://www.tiktok.com/live",
+    "headless": true
+}

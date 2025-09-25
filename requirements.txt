@@ -1,5 +1,11 @@
-requests
-beautifulsoup4
-fake-useragent
-twitchAPI
-python-dotenv
+
+
+# Core dependencies
+selenium==4.15.2
+opera-chromiumdriver==0.3.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Testing and development
+faker==19.3.0
+
